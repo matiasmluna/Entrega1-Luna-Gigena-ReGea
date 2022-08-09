@@ -13,6 +13,6 @@ Luego, abro la terminal y voy a la carpeta y dentro ejecuto:
 python manage.py runserver
 
 
-![Chat Preview](https://i.imgur.com/8sgXpor.png)
+![Chat Preview](https://i.imgur.com/lIFUZjM.png)
 
 
